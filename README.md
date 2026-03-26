@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=⭐+PlusicAPI+-+Enhance+your+game.&size=30&width=650)](https://git.io/typing-svg)
 
-PlusicAPI Genomeia - переработка аналогичного сервиса для работы с игрой Genomeia.
+PlusicAPI Genomeia - переработка аналогичного сервиса реализации миксинов для работы с игрой Genomeia.
 
 
 ## 💻 Authors

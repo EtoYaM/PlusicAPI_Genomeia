@@ -1,5 +1,4 @@
 
-[![Build Status](https://img.shields.io/github/forks/Mega4oSS/PlusicAPI.svg?style=for-the-badge)](https://github.com/Mega4oSS/PlusicAPI) [![Build Status](https://img.shields.io/github/stars/Mega4oSS/PlusicAPI.svg?style=for-the-badge)](https://github.com/Mega4oSS/PlusicAPI) [![Build Status](https://img.shields.io/badge/Java-JDK%2011-green?style=for-the-badge)](https://github.com/Mega4oSS/PlusicAPI)
 
 # 
 
